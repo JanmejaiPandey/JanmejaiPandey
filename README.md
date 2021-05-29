@@ -15,6 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 📫 How to reach me: email:pandey.janmejai@gmail.com
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janmejaipandey&count_private=true">
 
-![Janmejai's GitHub stats](https://github-readme-stats.vercel.app/api?username=janmejaipandey&count_private=true)
+<table>
+  <tr>
+    <td>
+      ![Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=janmejaipandey&count_private=true)
+    </td>
+    <td>
+![Janmejai's GitHub stats](https://github-readme-stats.vercel.app/api?username=janmejaipandey&count_private=true)      
+    </td>
+  </tr>
+  </table>
+
+
+
