@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 📫 How to reach me: email:pandey.janmejai@gmail.com
-- 
+
 ![Janmejai's GitHub stats](https://github-readme-stats.vercel.app/api?username=janmejaipandey&count_private=true)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janmejaipandey&count_private=true&compact=true">
